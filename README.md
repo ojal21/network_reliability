@@ -8,3 +8,4 @@
 - Program run for p values ranging from 0.05 to 1 in steps of 0.05
 - Graphical diagram shows how network reliability values depend on p.
 
+![image](https://github.com/ojal21/network_reliability/assets/38795161/cec00bfe-d722-4cdb-80a1-39086c9be640)
